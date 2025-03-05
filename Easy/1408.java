@@ -1,4 +1,4 @@
-//String Matching in an Array
+String Matching in an Array
 class Solution {
     public List<String> stringMatching(String[] words) {
         int n = words.length;
