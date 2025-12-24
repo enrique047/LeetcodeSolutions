@@ -1,4 +1,5 @@
 //Apple Redistribution into Boxes
+import java.util.*;
 class Solution {
     public int minimumBoxes(int[] apple, int[] capacity) {
         int n = capacity.length;
